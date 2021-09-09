@@ -1,0 +1,4 @@
+pandas==1.2.5
+pandas-profiling==2.8.0
+xgboost
+category-encoders=2.2.2
